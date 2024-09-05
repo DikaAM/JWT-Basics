@@ -14,13 +14,13 @@ This is a Node.js project demonstrating a basic user login and protected dashboa
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/Dika-AM/JWT-Basics.git
 ```
 
 2. **Install dependencies:**
 
 ```bash
-cd your-project-name
+cd JWT-Basics
 npm install
 ```
 
